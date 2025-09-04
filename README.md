@@ -1,15 +1,20 @@
-# Project Title
+# ecommerce-app-v2
 
 ## Description
+
 Short, clear description of what this API does and who it's for.
 
 ## Features
-- Bullet 1
-- Bullet 2
-- Bullet 3
+
+- Products (CRUD), categories
+  - Users & authentication
+  - Cart & checkout flow
+  - Orders, order items, order status
+  - Pagination, filtering, sorting
 
 ## Installation
-```bash
+
+````bash
 git clone https://github.com/<USERNAME>/<REPO_NAME>.git
 cd <REPO_NAME>
 npm install
@@ -111,3 +116,4 @@ src/
   middlewares/
   utils/
 tests/
+````
