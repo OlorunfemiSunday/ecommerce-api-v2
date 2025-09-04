@@ -1,4 +1,4 @@
-# ecommerce-app-v2
+# ecommerce-api-v2
 
 ## Description
 
