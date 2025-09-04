@@ -1,4 +1,4 @@
-# Project Title
+# ecommerce-api-v2
 
 ## Description
 Short, clear description of what this API does and who it's for.
